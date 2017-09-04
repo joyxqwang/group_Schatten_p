@@ -1,6 +1,9 @@
 # group_Schatten_p
 
-Xiaoqian Wang, Dinggang Shen, Heng Huang. Prediction of Memory Impairment with MRI Data: A Longitudinal Study of Alzheimer's Disease. MICCAI 2016
+For the paper:
+
+    Xiaoqian Wang, Dinggang Shen, Heng Huang. Prediction of Memory Impairment with MRI Data: 
+    A Longitudinal Study of Alzheimer's Disease. MICCAI 2016
 
 This function optimizes the following problem:
 
