@@ -1,6 +1,6 @@
 # group_Schatten_p
 
-For the paper:
+Code for the paper:
 
     Xiaoqian Wang, Dinggang Shen, Heng Huang. Prediction of Memory Impairment with MRI Data: 
     A Longitudinal Study of Alzheimer's Disease. MICCAI 2016
